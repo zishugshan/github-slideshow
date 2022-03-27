@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"No matter what you will be judged, so do it anyway".
 Use the left arrow to go back!
